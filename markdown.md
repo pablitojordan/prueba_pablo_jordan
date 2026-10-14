@@ -19,7 +19,7 @@ print(ahorro)  # 10 minutos
 - Se esquivan los atascos
 - Gasta poco combustible
 
-## Mi rutina por la mañana
+## Mi rutina por la tarde
 
 1. Me pongo el casco
 2. Arranco la moto
@@ -27,8 +27,8 @@ print(ahorro)  # 10 minutos
 
 ## Enlaces
 
-- Enlace externo: [DGT](https://www.dgt.es)
-- Enlace interno: [Más detalles](docs/detalles.md)
+- Enlace externo: [Información de la DGT sobre las motos en España](https://www.dgt.es/muevete-con-seguridad/viaja-seguro/en-moto/)
+- Enlace interno a los detalles: [Más detalles](docs/detalles.md)
 
 ## Imágenes
 
