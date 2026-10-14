@@ -38,7 +38,7 @@ Mi moto:
 
 Mi instituto (Wikimedia Commons):
 
-![Mi instituto](https://upload.wikimedia.org/wikipedia/commons/2/28/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
+![Mi instituto](https://commons.wikimedia.org/wiki/Special:FilePath/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg?width=600)
 
 ## Comparación moto y coche
 
