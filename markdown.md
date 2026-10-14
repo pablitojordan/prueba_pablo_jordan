@@ -34,7 +34,7 @@ print(ahorro)  # 10 minutos
 
 Mi moto:
 
-![Mi moto](assets/mi-imagen.png)
+![Mi moto](assets/moto.jpeg)
 
 Mi instituto (Wikimedia Commons):
 
